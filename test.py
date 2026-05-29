@@ -1,7 +1,7 @@
 from pathlib import Path
 import argparse
 
-
+   
 def is_prime(n: int) -> bool:
     """Return True if n is a prime number."""
     if n < 2:
